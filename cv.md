@@ -1,6 +1,6 @@
 # Valeryia Ivanova
 ******
-![foto](1614581556_60-p-kartinki-lis-na-belom-fone-88.jpg)        
+![photo](/foto.jpg)        
 
 *****
 
@@ -9,7 +9,7 @@ Phone +48509766377
 
 Email andr8908@gmail.com
 
-[https://github.com/valeryiaivanova](Github)
+[Github](https://github.com/valeryiaivanova)
 
 Location: Wroclaw, Poland
 ******
@@ -17,6 +17,7 @@ Location: Wroclaw, Poland
 - I have good interpersonal skills, am an excellent team worker.  My goal is to gain knowledge in the field of front-end development.
 ******
 ## Code Example:
+- [cv project](https://github.com/valeryiaivanova/rsschool-cv)
 ******
 ## Education:
 - College of Communication 2007-2010
